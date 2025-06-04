@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "TF2Skins.dll",
+  "author": "pikpik_carrot",
+  "name": "Team Fortress 2 Skinpack",
+  "uniqueName": "pikpik_carrot.TF2Skins",
+  "version": "0.1.0",
+  "owmlVersion": "2.9.6",
+  "dependencies": [ "pikpik_carrot.SkinChanger" ]
+}

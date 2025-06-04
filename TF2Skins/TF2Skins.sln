@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF2Skins", "TF2Skins.csproj", "{B4285E04-8E64-4D89-A911-2E92255CEACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4285E04-8E64-4D89-A911-2E92255CEACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4285E04-8E64-4D89-A911-2E92255CEACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4285E04-8E64-4D89-A911-2E92255CEACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4285E04-8E64-4D89-A911-2E92255CEACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B31EBA7B-61C8-4777-A1DA-7FBF2D74E104}
+	EndGlobalSection
+EndGlobal

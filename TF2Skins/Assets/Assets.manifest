@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2388913673
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: traveller_hea_player_demo_blue
+      Dependencies: {}
+    Info_1:
+      Name: traveller_hea_player_demo_red
+      Dependencies: {}
+    Info_2:
+      Name: traveller_hea_player_engineer_blue
+      Dependencies: {}
+    Info_3:
+      Name: traveller_hea_player_engineer_red
+      Dependencies: {}
+    Info_4:
+      Name: traveller_hea_player_heavy_blue
+      Dependencies: {}
+    Info_5:
+      Name: traveller_hea_player_heavy_red
+      Dependencies: {}
+    Info_6:
+      Name: traveller_hea_player_medic_blue
+      Dependencies: {}
+    Info_7:
+      Name: traveller_hea_player_medic_red
+      Dependencies: {}
+    Info_8:
+      Name: traveller_hea_player_pyro_blue
+      Dependencies: {}
+    Info_9:
+      Name: traveller_hea_player_pyro_red
+      Dependencies: {}
+    Info_10:
+      Name: traveller_hea_player_scout_blue
+      Dependencies: {}
+    Info_11:
+      Name: traveller_hea_player_scout_red
+      Dependencies: {}
+    Info_12:
+      Name: traveller_hea_player_sniper_blue
+      Dependencies: {}
+    Info_13:
+      Name: traveller_hea_player_sniper_red
+      Dependencies: {}
+    Info_14:
+      Name: traveller_hea_player_soldier_blue
+      Dependencies: {}
+    Info_15:
+      Name: traveller_hea_player_soldier_red
+      Dependencies: {}
+    Info_16:
+      Name: traveller_hea_player_spy_blue
+      Dependencies: {}
+    Info_17:
+      Name: traveller_hea_player_spy_red
+      Dependencies: {}
